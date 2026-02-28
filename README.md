@@ -1,12 +1,12 @@
 <picture>
-  <img src="banner.jpg" alt="Tyson George — just a guy making tools" width="100%"/>
+  <img src="header.svg" alt="Tyson George — just a guy making tools" width="100%"/>
 </picture>
 
 &nbsp;
 
-```
-> Founder of TysonLabs — building open-source dev tools.
-```
+<img align="right" src="banner.jpg" width="320"/>
+
+Senior engineer from Ohio, writing code since 2009. Building open-source dev tools at [TysonLabs](https://github.com/TysonLabs) by night — AI tinkerer and gamer by later night.
 
 &nbsp;
 
