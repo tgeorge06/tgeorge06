@@ -1,12 +1,11 @@
 <picture>
-  <img src="header.svg" alt="Tyson George — just a guy making tools" width="100%"/>
+  <img src="banner.jpg" alt="Tyson George — just a guy making tools" width="100%"/>
 </picture>
 
 &nbsp;
 
 ```
-> Founder of TysonLabs — building open-source dev tools in Rust.
-> Specializing in terminal applications, developer experience, and CLI tooling.
+> Founder of TysonLabs — building open-source dev tools.
 ```
 
 &nbsp;
