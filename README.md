@@ -10,13 +10,15 @@ Senior engineer from Ohio, writing code since 2009. Building open-source dev too
 
 &nbsp;
 
+---
+
 ### `PROJECTS`
 
 | | Project | Description | Install |
 |---|---------|-------------|---------|
 | **>** | [**lazyide**](https://github.com/TysonLabs/lazyide) | Terminal IDE — LSP, 32 themes, git integration | `curl -fsSL https://tysonlabs.dev/lazyide/install.sh \| sh` |
 
-&nbsp;
+---
 
 ### `STACK`
 
@@ -26,6 +28,17 @@ Senior engineer from Ohio, writing code since 2009. Building open-source dev too
 ![Python](https://img.shields.io/badge/Python-0a0e17?style=flat-square&logo=python&logoColor=06b6d4)
 ![Linux](https://img.shields.io/badge/Linux-0a0e17?style=flat-square&logo=linux&logoColor=06b6d4)
 
-&nbsp;
+---
 
-<sub>**[TysonLabs](https://github.com/TysonLabs)** · [tysonlabs.dev](https://tysonlabs.dev)</sub>
+### `ACTIVITY`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tgeorge06&show_icons=true&bg_color=0a0e17&title_color=06b6d4&text_color=f1f5f9&icon_color=06b6d4&border_color=1e293b&hide_border=false&hide=contribs&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgeorge06&layout=compact&bg_color=0a0e17&title_color=06b6d4&text_color=f1f5f9&border_color=1e293b&hide_border=false" width="45%" />
+</p>
+
+---
+
+<p align="center">
+  <sub><a href="https://github.com/TysonLabs"><b>TysonLabs</b></a> · <a href="https://tysonlabs.dev">tysonlabs.dev</a> · <a href="https://x.com/TysonGeorge">@TysonGeorge</a></sub>
+</p>
